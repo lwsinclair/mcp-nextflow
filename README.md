@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adamrtalbot-mcp-nextflow-badge.png)](https://mseep.ai/app/adamrtalbot-mcp-nextflow)
+
 # Nextflow Developer Tools MCP
 
 A Model Context Protocol (MCP) server designed for Nextflow development and testing, built with FastMCP.
